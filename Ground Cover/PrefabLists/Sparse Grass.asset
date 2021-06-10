@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea45edf3e131415f872fdd83dff2a6a, type: 3}
+  m_Name: Sparse Grass
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 1052835112769866813, guid: 9a4aaaa73b98d404c8f7b9d1bf8fefaf, type: 3}
+  - {fileID: 1973275003016119474, guid: 7f52351f7eb354f079cf51564ddb83c2, type: 3}
+  - {fileID: 1052835112769866813, guid: e43a4a385d3c84a78a06549af5f0497b, type: 3}
+  - {fileID: 1052835112769866813, guid: ef14769c71832449ab7acd98c6e58b07, type: 3}
+  - {fileID: 1052835112769866813, guid: 6ce3ddbc3a4d146c98035ef2be5f8db3, type: 3}
+  - {fileID: 1052835112769866813, guid: 10e6973a1446446e2ae35265b0d3cdb3, type: 3}
+  - {fileID: 1052835112769866813, guid: abd7089a6b5a14c78af075ce16503860, type: 3}
+  - {fileID: 1052835112769866813, guid: 150ee63a402a84d20b45e70e9ab4f4c5, type: 3}
+  - {fileID: 1052835112769866813, guid: 59bfbde3a72974c5c94c84db21e1b5aa, type: 3}
+  - {fileID: 1052835112769866813, guid: 695e0973d19f4473082e28b3d91de967, type: 3}
+  - {fileID: 1052835112769866813, guid: f822c70a7ab42490b95380cfbd82f59d, type: 3}
+  - {fileID: 1052835112769866813, guid: edc048e0247914a9d9d15498cad39541, type: 3}
