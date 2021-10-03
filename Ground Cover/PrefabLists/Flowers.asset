@@ -13,12 +13,9 @@ MonoBehaviour:
   m_Name: Flowers
   m_EditorClassIdentifier: 
   prefabs:
-  - {fileID: 7452416787535721737, guid: aca9382a90cc246e6909f17485aeb217, type: 3}
   - {fileID: 7152236480602370287, guid: bdcbb427823b647ae8eff6a24ffb5985, type: 3}
   - {fileID: 5675575150036289970, guid: 986c4ec0f4e034e588bb844f617cb8a5, type: 3}
-  - {fileID: 3330015271786961212, guid: 2ceee574000b84c49a629eb580681719, type: 3}
   - {fileID: 8823702304716126885, guid: 6d740ff45db8641c0b9ce0ccd05a475e, type: 3}
   - {fileID: 7065229975499759913, guid: 6c9f95a14e3dc4606a6b8d1351187502, type: 3}
   - {fileID: 4091890141551664303, guid: 39d6559de01a74784ad207cebf3cb761, type: 3}
   - {fileID: 4394272317103277107, guid: 0238e9a6ca8374b0f97e04180ca9b92e, type: 3}
-  - {fileID: 2480838369373914451, guid: c2243ddfe1bf54ac7afe17bad4aca0da, type: 3}

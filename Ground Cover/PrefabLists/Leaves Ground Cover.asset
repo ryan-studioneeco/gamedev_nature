@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eea45edf3e131415f872fdd83dff2a6a, type: 3}
-  m_Name: Trees 00
+  m_Name: Leaves Ground Cover
   m_EditorClassIdentifier: 
   prefabs:
-  - {fileID: 1047884306009003232, guid: 911e25da7b96d4b999506a107ab45b40, type: 3}
+  - {fileID: 6046346358855677088, guid: 044a46e5f82d64e0497ca8589de6b139, type: 3}

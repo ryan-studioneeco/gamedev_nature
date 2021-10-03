@@ -195,7 +195,7 @@ Material:
     - __dirty: 0
     m_Colors:
     - _ASEOutlineColor: {r: 0, g: 0, b: 0, a: 1}
-    - _BaseTextureColor: {r: 0.33014363, g: 0.3962264, b: 0.31959772, a: 1}
+    - _BaseTextureColor: {r: 0.3490566, g: 0.34073326, b: 0.26179245, a: 1}
     - _Color: {r: 0.44413602, g: 0.53900003, b: 0.42257604, a: 1}
     - _ColorBottom: {r: 1, g: 1, b: 1, a: 1}
     - _ColorDim: {r: 0.16825227, g: 0.26415092, b: 0.1482734, a: 1}
